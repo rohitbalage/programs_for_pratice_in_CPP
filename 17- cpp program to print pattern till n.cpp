@@ -17,7 +17,7 @@ int main()
 
 {
  
- int n, i,j;
+ int n;
  
  cout << "enter your number";
  cin >>n;
