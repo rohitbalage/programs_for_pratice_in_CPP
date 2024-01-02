@@ -1,6 +1,6 @@
-# :man_technologist: Collection of DSA for C++
+# :man_technologist: Collection of C++ Programs
 
-This repository depitcs my practice for C++ DSA Prep. 
+This repository depitcs my practice for C++ Programs. 
 ---
 
 
